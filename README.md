@@ -3,9 +3,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&link=https://www.facebook.com/kwanghun.lee.16/)](https://www.facebook.com/kwanghun.lee.16/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lkh14011424@gmail.com)](mailto:lkh14011424@gmail.com)  
 
-### Hi There I'm Lee Kwanghun👋
+## Hi There I'm Lee Kwanghun👋
 
-#### Web Front-End, Back-End Developer
+### Web Front-End, Back-End Developer
 
 - 🔭 I’m currently working on Kolon Benit (Gwacheon, South Korea)
 - 🌱 I’m currently learning React, Redux, Vue, Next.js, Java, Spring, Flask
