@@ -7,6 +7,3 @@
 ### Web Front-End Developer
 
 - 🔭 I’m currently working on Kolon Benit (Gwacheon, South Korea)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkhoony&show_icons=true&theme=dark&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkhoony&layout=compact&hide=jupyter%20notebook,html,css)
