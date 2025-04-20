@@ -7,10 +7,10 @@
 ### Web Front-End Developer
 
 - 🔭 I’m currently working on Kolon Benit (Gwacheon, South Korea)
-- ⚛️ Focused on React architecture and performance optimization
-- 🧠 Experienced in Redux, MobX, and Zustand for state management
-- 🖥 Building and maintaining desktop apps with Electron.js
-- 🔄 Handling real-time data with TanStack Query and Socket.IO
-- 🎨 Styling with SCSS, Styled-Components, and Tailwind CSS
-- 🛠 Setting up build tools like Webpack and Vite
-- ⚙️ CI/CD with GitHub Actions and Jenkins
+- Core Skills: JavaScript, TypeScript, React Architecture, Performance Optimization
+- State Management: Redux, MobX, Zustand
+- App Development: Electron.js
+- Data Handling: TanStack Query, Socket.IO
+- Styling: SCSS, Styled-Components, Tailwind CSS
+- Bundler: Webpack, Vite
+- CI/CD: GitHub Actions, Jenkins
