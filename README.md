@@ -7,7 +7,7 @@
 ### Web Front-End Developer
 
 - 🔭 I’m currently working on Kolon Benit (Gwacheon, South Korea)
-- Core Skills: JavaScript, TypeScript, React Architecture, Performance Optimization
+- Skills: JavaScript, TypeScript, React
 - State Management: Redux, MobX, Zustand
 - App Development: Electron.js
 - Data Handling: TanStack Query, Socket.IO
