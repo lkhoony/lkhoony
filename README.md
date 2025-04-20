@@ -7,3 +7,14 @@
 ### Web Front-End Developer
 
 - 🔭 I’m currently working on Kolon Benit (Gwacheon, South Korea)
+- 🌱  Experienced in working with
+* Javascript, Typescript
+* React
+* Redux, MobX, Zustand
+* Electron.js
+* Next.js
+* SCSS, Styled-Component, Tailwind CSS
+* Socket.IO
+* TanStack Query
+* Webpack, Vite
+* Github, Github Actions, Jenkins
